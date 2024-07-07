@@ -1,6 +1,6 @@
 # Next-Word-Predictor
 
-Made a simple RNN to predict the next words using a sentences dataset.<br>
+Made a simple RNN in Numpy only to predict the next words using a sentences dataset.<br>
 
 The dataset can be found [here](https://www.kaggle.com/datasets/swekerr/next-word-prediciton/data) <br>
 
